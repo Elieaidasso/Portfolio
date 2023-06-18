@@ -128,17 +128,10 @@ li {
     
 }
 
-/* section.professionalExperiences {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    padding:0 10%;
-}
- */
+
 
 
  /* Item styling */
-
 
 
  .item {
@@ -146,8 +139,6 @@ li {
     border: 10px solid #f9fafb;
     border-radius: 10px;
     box-shadow: 0 10px 20px -8px #414545;
-  
-
    
  }
 
@@ -175,14 +166,10 @@ li {
 
  } 
 
-
-
  .item-4 {
     display:none;
-    grid-column: span 2;
-   
+    grid-column: span 2;   
  }
-
 
  .item-5 {
     display: none;
@@ -195,7 +182,7 @@ li {
     display:inline-block;
     width:25px;
     height:25px;
-    background-image:url('/Website/static/images/book.png');
+    background-image:url('Elie-portfolio/Website/static/images/book.png');
     background-size:contain;
     margin-left: 10px;
    
@@ -206,7 +193,7 @@ li {
     display:inline-block;
     width:25px;
     height:25px;
-    background-image:url('/Website/static/images/book.png');
+    background-image:url('Elie-portfolio/Website/static/images/book.png');
     background-size:contain;
     margin-left: 10px;
    
@@ -217,7 +204,7 @@ li {
     display:inline-block;
     width:25px;
     height:25px;
-    background-image:url('/Website/static/images/star.png');
+    background-image:url('Elie-portfolio/Website/static/images/star.png');
     background-size:contain;
     margin-left: 10px;
    
