@@ -129,7 +129,7 @@ li {
     display: grid;
     margin:5% auto;
     width: 80%;
-    height:600px;
+    height:500px;
 
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 3fr;
